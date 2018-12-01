@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "StefanFroemken\\Home\\": "src/",
+      "StefanFroemken\\Home\\": "src/"
     }
   }
 }
