@@ -16,9 +16,6 @@
     "ext-xml": "*"
   },
   "autoload": {
-    "psr-4": { "Symfony\\Bundle\\FrameworkBundle\\": "" },
-    "exclude-from-classmap": [
-      "/Tests/"
-    ]
+    "psr-4": { "StefanFroemken\\Bundle\\": "" }
   }
 }
